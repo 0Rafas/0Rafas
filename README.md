@@ -26,7 +26,7 @@ const 0Rafas = {
     day: "Building beautiful & useful applications 💻",
     night: "Analyzing malware and finding vulnerabilities 🕵️‍♀️"
   }
-};
+}; ```
 
 
 
