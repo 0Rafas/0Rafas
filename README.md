@@ -17,6 +17,11 @@
   
 
 
+## GitHub Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0Rafas&theme=high-contrast" alt="GitHub Activity Graph"/>
+</p>
+
 ### A little more about me... 🎀
 ```javascript
 const 0Rafas = {
@@ -26,12 +31,4 @@ const 0Rafas = {
     day: "Building beautiful & useful applications 💻",
     night: "Analyzing malware and finding vulnerabilities 🕵️‍♀️"
   }
-}; ```
-
-
-
-
-## GitHub Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0Rafas&theme=high-contrast" alt="GitHub Activity Graph"/>
-</p>
+}; 
