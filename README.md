@@ -4,6 +4,30 @@
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/XmaRBqmJCzFjOsjl2O/giphy.gif" width="24px">, I'm Rafa</h1>
 
+<div align="center">
+
+### 🌸 Hi there ! 🌸
+
+<p>Welcome to my little corner of the internet! I'm a programmer and security analyst who loves making cute desktop apps and hunting down nasty malware. ✨</p>
+
+
+
+</div>
+
+  
+
+
+### A little more about me... 🎀
+```javascript
+const 0Rafas = {
+  passions: ["Desktop Apps", "Cyber Security", "Reverse Engineering", "Cute UI/UX"],
+  code: ["C++/C", "C#", "Python", "Go", "JavaScript"],
+  dailyTasks: {
+    day: "Building beautiful & useful applications 💻",
+    night: "Analyzing malware and finding vulnerabilities 🕵️‍♀️"
+  }
+};
+
 
 
 
