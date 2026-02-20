@@ -4,7 +4,7 @@
 
 #  Hi, I'm Rafa <img src="https://media.giphy.com/media/XmaRBqmJCzFjOsjl2O/giphy.gif" width="35">
 
-<code>Cybersecurity Researcher ✦ Reverse Engineer ✦ Software Architect</code>
+<code>Reverse Engineer ✦ Software Architect</code>
 
 *Blending deep offensive security research with pixel-perfect, adorable software design.* 🌸
 
