@@ -77,7 +77,7 @@ const Rafa = {
 
 <br>
 
-·͙*̩̩͙˚̩̥̩̥*̩̩̥͙·̩̩̥͙*̩̩̥͙˚̩̥̩̥*̩̩͙‧͙
+
 
 ### 🎀 GitHub Activity Graph 🎀
 
