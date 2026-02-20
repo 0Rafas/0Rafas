@@ -54,12 +54,20 @@ const Rafa = {
 </td>
 <td width="40%" align="center" valign="middle">
 
+<br>
+<h3>🌸 System Status 🌸</h3>
+
+<div align="left">
+  <code>root@rafa:~$ ./kawaii_exploit.sh</code><br>
+  <code>[+] Bypassing EDR...</code><br>
+  <code>[+] Injecting PinkPayload.dll</code><br>
+  <code>[+] Root Shell Obtained! (✿◡‿◡)</code>
+</div>
+
 <br><br>
-<h3>✨ Current Status ✨</h3>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FF69B4&center=true&vCenter=true&width=300&lines=Hunting+Zero-Days+🕵🏻‍♀️;Reversing+Malware+🦠;Crafting+Cute+UIs+🎀;Sipping+Strawberry+Milk+🍓" alt="Typing SVG" />
-<br><br><br>
+
 <div align="center">
-  <span style="font-size: 20px;">(∩｀-´)⊃━☆ﾟ.*･｡ﾟ</span><br><br>
+  <h3>(∩｀-´)⊃━☆ﾟ.*･｡ﾟ</h3>
   <i>"Security through Adorability!"</i> 🎀
 </div>
 
