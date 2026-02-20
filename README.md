@@ -98,7 +98,7 @@ const Rafa = {
 
 ### 🎀 GitHub Stats 🎀
 
-<img src="https://github-readme-stats.vercel.app/api?username=0Rafas&show_icons=true&hide_border=true&title_color=ff69b4&icon_color=ff1493&text_color=ffb6c1&bg_color=00000000&include_all_commits=true&count_private=true" alt="GitHub Stats" width="400"/>
+
 
 <br><br>
 
