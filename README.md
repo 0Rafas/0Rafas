@@ -28,8 +28,8 @@ Welcome to my little corner of the internet! I am a passionate **Security Analys
 <div align="center">
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="55%" align="left" valign="top">
+<tr>
+<td width="55%" align="left" valign="top">
 
 ```javascript
 const Rafa = {
@@ -51,12 +51,12 @@ const Rafa = {
 };
 ```
 
-    </td>
-    <td width="45%" align="center" valign="middle">
-      <br>
-      <img src="https://media1.tenor.com/m/RNu6ziNyDXIAAAAd/2b-nier.gif" width="100%" alt="2B Nier Gif" />
-    </td>
-  </tr>
+</td>
+<td width="45%" align="center" valign="middle">
+<br>
+<img src="https://media1.tenor.com/m/RNu6ziNyDXIAAAAd/2b-nier.gif" width="100%" alt="2B Nier Gif" />
+</td>
+</tr>
 </table>
 
 <br>
