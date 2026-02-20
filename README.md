@@ -77,7 +77,7 @@ const Rafa = {
 
 <br>
 
-·͙*̩̩͙˚̩̥̩̥*̩̩̥͙·̩̩̥͙*̩̩̥͙˚̩̥̩̥*̩̩͙‧͙
+
 
 ### 🎀 Tech Stack & Languages 🎀
 
