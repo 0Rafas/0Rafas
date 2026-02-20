@@ -29,14 +29,14 @@ Welcome to my little corner of the internet! I am a passionate **Security Analys
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr>
-<td width="55%" align="left" valign="top">
+<td width="60%" align="left" valign="top">
 
 ```javascript
 const Rafa = {
   identities: ["Security Researcher", "Reverse Engineer", "UI/UX Artist"],
   technologicalStack: {
     lowLevel: ["C/C++", "x86/x64 Assembly", "Memory Extraction"],
-    highLevel: ["C# (.NET Core)", "Python (Automation)", "Go", "TypeScript"],
+    highLevel: ["C# (.NET Core)", "Python (Automation)", "Go"],
     securityArsenal: ["IDA Pro", "Ghidra", "x64dbg", "Wireshark"]
   },
   currentMissions: [
@@ -45,15 +45,24 @@ const Rafa = {
     "Engineering cute & performant desktop overlays 🎀"
   ],
   dailyRoutine: {
-    day: "Architecting beautiful, scalable, & elegant software solutions ✨",
-    night: "Delving into undocumented APIs & hunting zero-days 🕵🏻‍♀️"
+    day: "Architecting beautiful & elegant software ✨",
+    night: "Hunting zero-days & exploring APIs 🕵🏻‍♀️"
   }
 };
 ```
 
 </td>
-<td width="45%" align="center" valign="middle">
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.gif" width="100%" alt="Cute Pink Anime Girl Coding" />
+<td width="40%" align="center" valign="middle">
+
+<br><br>
+<h3>✨ Current Status ✨</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FF69B4&center=true&vCenter=true&width=300&lines=Hunting+Zero-Days+🕵🏻‍♀️;Reversing+Malware+🦠;Crafting+Cute+UIs+🎀;Sipping+Strawberry+Milk+🍓" alt="Typing SVG" />
+<br><br><br>
+<div align="center">
+  <span style="font-size: 20px;">(∩｀-´)⊃━☆ﾟ.*･｡ﾟ</span><br><br>
+  <i>"Security through Adorability!"</i> 🎀
+</div>
+
 </td>
 </tr>
 </table>
