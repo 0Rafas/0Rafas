@@ -53,8 +53,7 @@ const Rafa = {
 
 </td>
 <td width="45%" align="center" valign="middle">
-<br>
-<img src="https://media1.tenor.com/m/RNu6ziNyDXIAAAAd/2b-nier.gif" width="100%" alt="2B Nier Gif" />
+<img src="https://i.pinimg.com/originals/82/4c/75/824c75d5d8baddac1e3ab99a48b77f36.gif" width="100%" alt="Cute Anime Girl Coding" />
 </td>
 </tr>
 </table>
