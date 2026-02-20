@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=150&section=header&text=Welcome%20To%20Rafa's%20Sanctuary&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
 
-# 🎀 Hi, I'm Rafa <img src="https://media.giphy.com/media/XmaRBqmJCzFjOsjl2O/giphy.gif" width="35">
+#  Hi, I'm Rafa <img src="https://media.giphy.com/media/XmaRBqmJCzFjOsjl2O/giphy.gif" width="35">
 
 <code>Cybersecurity Researcher ✦ Reverse Engineer ✦ Software Architect</code>
 
