@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=150&section=header&text=Welcome%20To%20Rafa's%20Sanctuary&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
 
-#  Hi, I'm Rafa <img src="https://media.giphy.com/media/XmaRBqmJCzFjOsjl2O/giphy.gif" width="35">
+# Hi, I'm Rafa <img src="https://media.giphy.com/media/XmaRBqmJCzFjOsjl2O/giphy.gif" width="35">
 
 <code>Reverse Engineer ✦ Software Architect</code>
 
@@ -77,7 +77,15 @@ const Rafa = {
 
 <br>
 
+·͙*̩̩͙˚̩̥̩̥*̩̩̥͙·̩̩̥͙*̩̩̥͙˚̩̥̩̥*̩̩͙‧͙
 
+### 🎀 Most Used Languages 🎀
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Rafas&layout=compact&hide_border=true&langs_count=6&title_color=ff69b4&text_color=ffb6c1&icon_color=ff1493&bg_color=00000000" alt="Top Languages" width="350"/>
+
+<br>
+
+·͙*̩̩͙˚̩̥̩̥*̩̩̥͙·̩̩̥͙*̩̩̥͙˚̩̥̩̥*̩̩͙‧͙
 
 ### 🎀 GitHub Activity Graph 🎀
 
