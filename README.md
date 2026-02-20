@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=150&section=header&text=Welcome%20To%20Rafa's%20Sanctuary&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
 
-# Hi, I'm Rafa <img src="https://media.giphy.com/media/XmaRBqmJCzFjOsjl2O/giphy.gif" width="35">
+# 🎀 Hi, I'm Rafa <img src="https://media.giphy.com/media/XmaRBqmJCzFjOsjl2O/giphy.gif" width="35">
 
 <code>Reverse Engineer ✦ Software Architect</code>
 
@@ -79,17 +79,26 @@ const Rafa = {
 
 ·͙*̩̩͙˚̩̥̩̥*̩̩̥͙·̩̩̥͙*̩̩̥͙˚̩̥̩̥*̩̩͙‧͙
 
-### 🎀 Most Used Languages 🎀
+### 🎀 Tech Stack & Languages 🎀
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Rafas&layout=compact&hide_border=true&langs_count=6&title_color=ff69b4&text_color=ffb6c1&icon_color=ff1493&bg_color=00000000" alt="Top Languages" width="350"/>
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-ff69b4?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-ff1493?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-ffb6c1?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-DB7093?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-FFC0CB?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assembly-C71585?style=for-the-badge&logo=nasm&logoColor=white" />
+</p>
 
 <br>
 
 ·͙*̩̩͙˚̩̥̩̥*̩̩̥͙·̩̩̥͙*̩̩̥͙˚̩̥̩̥*̩̩͙‧͙
 
-### 🎀 GitHub Activity Graph 🎀
+### 🎀 GitHub Stats 🎀
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?0Rafas=0Rafas&bg_color=00000000&color=ffb6c1&line=ff69b4&point=ff1493&hide_border=true&title_color=ff69b4" alt="GitHub Activity Graph" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=0Rafas&show_icons=true&hide_border=true&title_color=ff69b4&icon_color=ff1493&text_color=ffb6c1&bg_color=00000000&include_all_commits=true&count_private=true" alt="GitHub Stats" width="400"/>
 
 <br><br>
 
