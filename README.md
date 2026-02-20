@@ -89,7 +89,7 @@ const Rafa = {
 
 ### 🎀 GitHub Activity Graph 🎀
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=0Rafas&bg_color=00000000&color=ffb6c1&line=ff69b4&point=ff1493&hide_border=true&title_color=ff69b4" alt="GitHub Activity Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?0Rafas=0Rafas&bg_color=00000000&color=ffb6c1&line=ff69b4&point=ff1493&hide_border=true&title_color=ff69b4" alt="GitHub Activity Graph" width="100%"/>
 
 <br><br>
 
