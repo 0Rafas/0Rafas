@@ -38,17 +38,6 @@ const Rafa = {
     night: "Analyzing malware & finding vulnerabilities 🕵️‍♀️"
   }
 };
-```
-
-    </td>
-    <td width="45%" align="center" valign="middle">
-      <br>
-      <img src="https://media1.tenor.com/m/RNu6ziNyDXIAAAAd/2b-nier.gif" width="100%" alt="2B Nier Gif" />
-    </td>
-  </tr>
-</table>
-
-<br>
 
 ·͙*̩̩͙˚̩̥̩̥*̩̩̥͙·̩̩̥͙*̩̩̥͙˚̩̥̩̥*̩̩͙‧͙
 
