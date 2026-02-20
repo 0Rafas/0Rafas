@@ -25,7 +25,7 @@
 ### A little more about me... 🎀
 ```javascript
 const 0Rafas = {
-  passions: ["Desktop Apps", "Cyber Security", "Reverse Engineering", "Cute UI/UX"],
+  passions: ["Cyber Security", "Reverse Engineering", "Cute UI/UX"],
   code: ["C++/C", "C#", "Python", "Go", "JavaScript"],
   dailyTasks: {
     day: "Building beautiful & useful applications 💻",
