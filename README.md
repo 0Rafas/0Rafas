@@ -35,7 +35,7 @@ Welcome to my little corner of the internet! I am a passionate **Security Analys
 const Rafa = {
   identities: ["Security Researcher", "Reverse Engineer", "UI/UX Artist"],
   technologicalStack: {
-    lowLevel: ["C/C++", "x86/x64 Assembly", "Memory Extraction"],
+    lowLevel: ["C/C++", "x86/x64 Assembly", "Memory Extraction", "Rust"],
     highLevel: ["C# (.NET Core)", "Python (Automation)", "Go"],
     securityArsenal: ["IDA Pro", "Ghidra", "x64dbg", "Wireshark"]
   },
