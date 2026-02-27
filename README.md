@@ -90,7 +90,7 @@ const Rafa = {
   <img src="https://img.shields.io/badge/Go-DB7093?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-FFC0CB?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/Assembly-C71585?style=for-the-badge&logo=nasm&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-ff69b4?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-ff69b4?style=for-the-badge&logo=rust&logoColor=white" />
 </p>
 
 <br>
