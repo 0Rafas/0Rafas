@@ -61,13 +61,13 @@ const Rafa = {
   <code>root@rafa:~$ ./kawaii_exploit.sh</code><br>
   <code>[+] Bypassing EDR...</code><br>
   <code>[+] Injecting PinkPayload.dll</code><br>
-  <code>[+] Root Shell Obtained! (✿◡‿◡)</code>
+  <code>[+] Root Shell Obtained! ✿ </code>
 </div>
 
 <br><br>
 
 <div align="center">
-  <h3>(∩｀-´)⊃━☆ﾟ.*･｡ﾟ</h3>
+  <h3> 0Rafas </h3>
   <i>"Security through Adorability!"</i> 🎀
 </div>
 
