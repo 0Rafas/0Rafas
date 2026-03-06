@@ -25,7 +25,7 @@
 
 | 🌸 Project | ⭐ | Description |
 | :--- | :---: | :--- |
-| [**NrjmWitch**](https://github.com/0Rafas/NrjmWitch) | [![Stars](https://img.shields.io/github/stars/0Rafas/NrjmWitch?style=flat-square&color=B36A7C&logo=github)](https://github.com/0Rafas/NrjmWitch) | Professional Open Source Command & Control Framework |
+| [**NrjmWitch**](https://github.com/0Rafas/Nrjm-Witch) | [![Stars](https://img.shields.io/github/stars/0Rafas/NrjmWitch?style=flat-square&color=B36A7C&logo=github)](https://github.com/0Rafas/NrjmWitch) | Professional Open Source Command & Control Framework |
 | [**SiraUI.WinForms**](https://github.com/0Rafas/SiraUI.WinForms) | [![Stars](https://img.shields.io/github/stars/0Rafas/SiraUI.WinForms?style=flat-square&color=B36A7C&logo=github)](https://github.com/0Rafas/SiraUI.WinForms) | Control library for Windows Forms that offers a modern and attractive design |
 | [**0Rafas-Snip**](https://github.com/0Rafas/0Rafas-Snip) | [![Stars](https://img.shields.io/github/stars/0Rafas/0Rafas-Snip?style=flat-square&color=B36A7C&logo=github)](https://github.com/0Rafas/0Rafas-Snip) | Professional Discord Snip |
 
