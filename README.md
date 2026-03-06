@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=150&section=header&text=Welcome%20To%20Rafa's%20Sanctuary&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
 
@@ -106,3 +106,4 @@ const Rafa = {
 <img src="https://komarev.com/ghpvc/?username=0Rafas&style=for-the-badge&color=ffb6c1&label=PROFILE+VIEWS&labelColor=555555" alt="Profile Views"/>
 
 </div>
+](https://discord.com/channels/1463245840821911736/1479451188675215411)
