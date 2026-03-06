@@ -1,109 +1,77 @@
-[<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=150&section=header&text=Welcome%20To%20Rafa's%20Sanctuary&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
-
-# 🎀 Hi, I'm Rafa <img src="https://media.giphy.com/media/XmaRBqmJCzFjOsjl2O/giphy.gif" width="35">
-
-<code>Reverse Engineer ✦ Software Architect</code>
-
-*Blending deep offensive security research with pixel-perfect, adorable software design.* 🌸
-
-</div>
-
-<br>
-
-### 🌸 ˚✧₊⁎ About My Digital Realm ⁎⁺˳✧༚
-Welcome to my little corner of the internet! I am a passionate **Security Analyst and Software Architect** who thrives at the intersection of low-level system subversion and elegantly fluid interface design. My expertise ranges from dissecting heavily obfuscated malware variants and reverse-engineering complex proprietary protocols, to engineering highly optimized, aesthetically pleasing software ecosystems. ✨
-
-<br>
-
-### ⚔️ ˚✧₊⁎ Technological Arsenal & Focus ⁎⁺˳✧༚
-
-- **🛡️ Offensive Security & Reverse Engineering:** Advanced Persistent Threat (APT) analysis, Kernel-Level debugging, Vulnerability Research (VR), undocumented API exploitation, and cryptographic protocol auditing.
-- **💻 Advanced Software Architecture:** Building concurrent backend orchestrations in Go, developing hardware-accelerated systems in C/C++, and engineering robust tooling with C# (.NET internals) and Python.
-- **✨ UI/UX & Aesthetic Engineering:** Designing state-of-the-art, high-fidelity micro-interactions with a deep passion for "Kawaii" aesthetics and seamless user experiences.
-
-<br>
-
 <div align="center">
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tr>
-<td width="60%" align="left" valign="top">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=45&pause=1000&color=B36A7C&center=true&vCenter=true&width=500&lines=0Rafas" alt="Typing SVG" />
 
-```javascript
-const Rafa = {
-  identities: ["Security Researcher", "Reverse Engineer", "UI/UX Artist"],
-  technologicalStack: {
-    lowLevel: ["C/C++", "x86/x64 Assembly", "Memory Extraction", "Rust"],
-    highLevel: ["C# (.NET Core)", "Python (Automation)", "Go"],
-    securityArsenal: ["IDA Pro", "Ghidra", "x64dbg", "Wireshark"]
-  },
-  currentMissions: [
-    "Analyzing evasive malware payloads 🧬",
-    "Developing automated vulnerability scanners 🕸️",
-    "Engineering cute & performant desktop overlays 🎀"
-  ],
-  dailyRoutine: {
-    day: "Architecting beautiful & elegant software ✨",
-    night: "Hunting zero-days & exploring APIs 🕵🏻‍♀️"
-  }
-};
-```
+<p align="center">
+  <img src="https://img.shields.io/github/followers/0Rafas?label=Follow&style=flat-square&color=B36A7C" />
+  <img src="https://img.shields.io/github/languages/top/0Rafas/NrjmWitch?label=JavaScript&style=flat-square&color=B36A7C" />
+  <img src="https://komarev.com/ghpvc/?username=0Rafas&label=Profile%20views&style=flat-square&color=B36A7C" />
+  <img src="https://img.shields.io/github/stars/0Rafas?style=flat-square&color=B36A7C" />
+</p>
 
-</td>
-<td width="40%" align="center" valign="middle">
-
-<br>
-<h3>🌸 System Status 🌸</h3>
-
-<div align="left">
-  <code>root@rafa:~$ ./kawaii_exploit.sh</code><br>
-  <code>[+] Bypassing EDR...</code><br>
-  <code>[+] Injecting PinkPayload.dll</code><br>
-  <code>[+] Root Shell Obtained! ✿ </code>
-</div>
-
-<br><br>
-
-<div align="center">
-  <h3> 0Rafas </h3>
-  <i>"Security through Adorability!"</i> 🎀
-</div>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-
-
-### 🎀 Tech Stack & Languages 🎀
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B36A7C&height=40&section=footer"/>
 
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-ff69b4?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-ff1493?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-ffb6c1?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-DB7093?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-FFC0CB?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assembly-C71585?style=for-the-badge&logo=nasm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-ff69b4?style=for-the-badge&logo=rust&logoColor=white" />
+  🌸 <b>Reverse Engineering • Software Architecture • Offensive Security • UI/UX Enthusiast</b>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B36A7C&height=40&section=header"/>
+
+</div>
+
+### 🚩 Notable Projects
+
+| 🌸 Project | ⭐ | Description |
+| :--- | :---: | :--- |
+| [**NrjmWitch**](https://github.com/0Rafas/NrjmWitch) | [![Stars](https://img.shields.io/github/stars/0Rafas/NrjmWitch?style=flat-square&color=B36A7C&logo=github)](https://github.com/0Rafas/NrjmWitch) | Professional Open Source Command & Control Framework |
+| [**SiraUI.WinForms**](https://github.com/0Rafas/SiraUI.WinForms) | [![Stars](https://img.shields.io/github/stars/0Rafas/SiraUI.WinForms?style=flat-square&color=B36A7C&logo=github)](https://github.com/0Rafas/SiraUI.WinForms) | Control library for Windows Forms that offers a modern and attractive design |
+| [**0Rafas-Snip**](https://github.com/0Rafas/0Rafas-Snip) | [![Stars](https://img.shields.io/github/stars/0Rafas/0Rafas-Snip?style=flat-square&color=B36A7C&logo=github)](https://github.com/0Rafas/0Rafas-Snip) | Professional Discord Snip |
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B36A7C&height=40&section=footer"/>
+</div>
+
+### 🌸 Tech & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-B36A7C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-B36A7C?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-B36A7C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-B36A7C?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-B36A7C?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assembly-B36A7C?style=for-the-badge&logo=nasm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-B36A7C?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-B36A7C?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
 <br>
 
-·͙*̩̩͙˚̩̥̩̥*̩̩̥͙·̩̩̥͙*̩̩̥͙˚̩̥̩̥*̩̩͙‧͙
-
-### 🎀 GitHub Stats 🎀
-
-
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=0Rafas&style=for-the-badge&color=ffb6c1&label=PROFILE+VIEWS&labelColor=555555" alt="Profile Views"/>
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B36A7C&height=40&section=header"/>
 </div>
-](https://discord.com/channels/1463245840821911736/1479451188675215411)
+
+### 🔍 Explore More
+
+<p align="center">
+  <a href="https://github.com/0Rafas?tab=repositories">
+    <img src="https://img.shields.io/badge/SEE_ALL_PROJECTS-B36A7C?style=for-the-badge" />
+  </a>
+</p>
+
+### 📬 Contact
+
+<p align="center">
+  <a href="https://discord.gg/sirashop">
+    <img src="https://img.shields.io/badge/DISCORD_SIRASHOP-B36A7C?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⚠️ <i>All code is for educational and research purposes only. Use responsibly.</i> ⚠️
+</p>
