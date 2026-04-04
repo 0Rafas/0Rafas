@@ -65,7 +65,7 @@
 
 <p align="center">
   <a href="https://discord.gg/AFW58BHw7k">
-    <img src="https://img.shields.io/badge/DISCORD_SIRASHOP-B36A7C?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/DISCORD-B36A7C?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
