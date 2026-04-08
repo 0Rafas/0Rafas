@@ -38,9 +38,9 @@
 
 | 🌸 Project | Tech Stack | Description |
 | :--- | :---: | :--- |
-| [**NrjmWitch**](https://github.com/0Rafas/Nrjm-Witch) | `C++` `Go` | Professional Open Source Command & Control Framework |
+| [**NrjmWitch**](https://github.com/0Rafas/Nrjm-Witch) | `C++` `JavaScript` | Professional Open Source Command & Control Framework |
 | [**SiraUI.WinForms**](https://github.com/0Rafas/SiraUI.WinForms) | `C#` `.NET` | Control library for WinForms with modern UI/UX focus |
-| [**0Rafas-Snip**](https://github.com/0Rafas/0Rafas-Snip) | `JS` `Node` | Professional Discord Snip and automation utility |
+| [**0Rafas-Snip**](https://github.com/0Rafas/0Rafas-Snip) | `Python` | Professional Discord Snip and automation utility |
 
 ### 📊 Activity & Insights
 
