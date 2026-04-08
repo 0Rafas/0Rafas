@@ -45,8 +45,8 @@
 ### 📊 Activity & Insights
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=0Rafas&show_icons=true&theme=rose_pine&hide_border=true&title_color=B36A7C&icon_color=B36A7C&text_color=7e7e7e&bg_color=00000000" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Rafas&layout=compact&theme=rose_pine&hide_border=true&title_color=B36A7C&icon_color=B36A7C&text_color=7e7e7e&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0Rafas&show_icons=true&theme=radical&title_color=B36A7C&icon_color=B36A7C&text_color=7e7e7e&bg_color=00000000&hide_border=true&cache_seconds=1800" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Rafas&layout=compact&theme=radical&title_color=B36A7C&icon_color=B36A7C&text_color=7e7e7e&bg_color=00000000&hide_border=true&cache_seconds=1800" height="180" alt="Top Languages" />
 </p>
 
 <div align="center">
