@@ -49,8 +49,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Rafas&layout=compact&theme=radical&title_color=B36A7C&icon_color=B36A7C&text_color=7e7e7e&bg_color=00000000&hide_border=true&cache_seconds=1800" height="180" alt="Top Languages" />
 </p>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B36A7C&height=40&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B36A7C&height=60&section=header"/>
+</div>
 
 ### 📬 Connect with me
 
