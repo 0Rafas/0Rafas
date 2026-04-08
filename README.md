@@ -50,7 +50,6 @@
 ### 📬 Connect with me
 
 [<img src="https://img.shields.io/badge/DISCORD-B36A7C?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/AFW58BHw7k)
-[<img src="https://img.shields.io/badge/PORTFOLIO-B36A7C?style=for-the-badge&logo=googlechrome&logoColor=white" />](https://h77.io/)
 
 ---
 
