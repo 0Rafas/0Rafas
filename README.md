@@ -38,23 +38,19 @@
 
 | 🌸 Project | Tech Stack | Description |
 | :--- | :---: | :--- |
-| [**NrjmWitch**](https://github.com/0Rafas/Nrjm-Witch) | `C++` `JavaScript` | Professional Open Source Command & Control Framework |
+| [**NrjmWitch**](https://github.com/0Rafas/Nrjm-Witch) | `C++` `Go` | Professional Open Source Command & Control Framework |
 | [**SiraUI.WinForms**](https://github.com/0Rafas/SiraUI.WinForms) | `C#` `.NET` | Control library for WinForms with modern UI/UX focus |
-| [**0Rafas-Snip**](https://github.com/0Rafas/0Rafas-Snip) | `Python` | Professional Discord Snip and automation utility |
+| [**0Rafas-Snip**](https://github.com/0Rafas/0Rafas-Snip) | `JS` `Node` | Professional Discord Snip and automation utility |
 
-### 📊 Activity & Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0Rafas&show_icons=true&theme=radical&title_color=B36A7C&icon_color=B36A7C&text_color=7e7e7e&bg_color=00000000&hide_border=true&cache_seconds=1800" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Rafas&layout=compact&theme=radical&title_color=B36A7C&icon_color=B36A7C&text_color=7e7e7e&bg_color=00000000&hide_border=true&cache_seconds=1800" height="180" alt="Top Languages" />
-</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B36A7C&height=60&section=header"/>
-</div>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B36A7C&height=40&section=footer"/>
 
 ### 📬 Connect with me
 
 [<img src="https://img.shields.io/badge/DISCORD-B36A7C?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/AFW58BHw7k)
+[<img src="https://img.shields.io/badge/PORTFOLIO-B36A7C?style=for-the-badge&logo=googlechrome&logoColor=white" />](https://h77.io/)
 
 ---
 
