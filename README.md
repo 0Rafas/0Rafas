@@ -8,73 +8,58 @@
   <img src="https://img.shields.io/github/stars/0Rafas?style=flat-square&color=B36A7C" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B36A7C&height=40&section=footer"/>
+🌸 **Reverse Engineering • Software Architecture • Offensive Security • UI/UX Enthusiast**
 
-<br>
-
-<p align="center">
-  🌸 <b>Reverse Engineering • Software Architecture • Offensive Security • UI/UX Enthusiast</b>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B36A7C&height=40&section=header"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B36A7C&height=60&section=header"/>
 </div>
 
-### 🚩 Notable Projects
+### 🛠️ Technical Arsenal
 
-| 🌸 Project | ⭐ | Description |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Low-Level & Security</h4>
+      <img src="https://img.shields.io/badge/Assembly-B36A7C?style=flat-square&logo=nasm&logoColor=white" />
+      <img src="https://img.shields.io/badge/C%2B%2B-B36A7C?style=flat-square&logo=cplusplus&logoColor=white" />
+      <img src="https://img.shields.io/badge/Rust-B36A7C?style=flat-square&logo=rust&logoColor=white" />
+      <img src="https://img.shields.io/badge/Reverse_Engineering-gray?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>Software & Tooling</h4>
+      <img src="https://img.shields.io/badge/C%23-B36A7C?style=flat-square&logo=csharp&logoColor=white" />
+      <img src="https://img.shields.io/badge/Go-B36A7C?style=flat-square&logo=go&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-B36A7C?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Windows_API-gray?style=flat-square" />
+    </td>
+  </tr>
+</table>
+
+### 🚩 Featured Research & Projects
+
+| 🌸 Project | Tech Stack | Description |
 | :--- | :---: | :--- |
-| [**NrjmWitch**](https://github.com/0Rafas/Nrjm-Witch) | [![Stars](https://img.shields.io/github/stars/0Rafas/Nrjm-Witch?style=flat-square&color=B36A7C&logo=github)](https://github.com/0Rafas/Nrjm-Witch) | Professional Open Source Command & Control Framework |
-| [**SiraUI.WinForms**](https://github.com/0Rafas/SiraUI.WinForms) | [![Stars](https://img.shields.io/github/stars/0Rafas/SiraUI.WinForms?style=flat-square&color=B36A7C&logo=github)](https://github.com/0Rafas/SiraUI.WinForms) | Control library for Windows Forms that offers a modern and attractive design |
-| [**0Rafas-Snip**](https://github.com/0Rafas/0Rafas-Snip) | [![Stars](https://img.shields.io/github/stars/0Rafas/0Rafas-Snip?style=flat-square&color=B36A7C&logo=github)](https://github.com/0Rafas/0Rafas-Snip) | Professional Discord Snip |
+| [**NrjmWitch**](https://github.com/0Rafas/Nrjm-Witch) | `C++` `Go` | Professional Open Source Command & Control Framework |
+| [**SiraUI.WinForms**](https://github.com/0Rafas/SiraUI.WinForms) | `C#` `.NET` | Control library for WinForms with modern UI/UX focus |
+| [**0Rafas-Snip**](https://github.com/0Rafas/0Rafas-Snip) | `JS` `Node` | Professional Discord Snip and automation utility |
 
-<br>
+### 📊 Activity & Insights
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=0Rafas&show_icons=true&theme=rose_pine&hide_border=true&title_color=B36A7C&icon_color=B36A7C&text_color=7e7e7e&bg_color=00000000" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Rafas&layout=compact&theme=rose_pine&hide_border=true&title_color=B36A7C&icon_color=B36A7C&text_color=7e7e7e&bg_color=00000000" />
+</p>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=B36A7C&height=40&section=footer"/>
-</div>
 
-### 🌸 Tech & Tools
+### 📬 Connect with me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-B36A7C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-B36A7C?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-B36A7C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-B36A7C?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-B36A7C?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assembly-B36A7C?style=for-the-badge&logo=nasm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-B36A7C?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-B36A7C?style=for-the-badge&logo=windows&logoColor=white" />
-</p>
-
-<br>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B36A7C&height=40&section=header"/>
-</div>
-
-### 🔍 Explore More
-
-<p align="center">
-  <a href="https://github.com/0Rafas?tab=repositories">
-    <img src="https://img.shields.io/badge/SEE_ALL_PROJECTS-B36A7C?style=for-the-badge" />
-  </a>
-</p>
-
-### 📬 Contact
-
-<p align="center">
-  <a href="https://discord.gg/AFW58BHw7k">
-    <img src="https://img.shields.io/badge/DISCORD-B36A7C?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</p>
+[<img src="https://img.shields.io/badge/DISCORD-B36A7C?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/AFW58BHw7k)
+[<img src="https://img.shields.io/badge/PORTFOLIO-B36A7C?style=for-the-badge&logo=googlechrome&logoColor=white" />](https://h77.io/)
 
 ---
 
-<p align="center">
-  ⚠️ <i>All code is for educational and research purposes only. Use responsibly.</i> ⚠️
-</p>
+⚠️ *All code is for educational and research purposes only. Use responsibly.* ⚠️
 
-<p align="center">
-   <i>Humans die, but their ideas remain.</i> 🧤
-</p>
+*“Humans die, but their ideas remain.”* 🧤
+</div>
