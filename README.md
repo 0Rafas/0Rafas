@@ -40,7 +40,7 @@
 | :--- | :---: | :--- |
 | [**NrjmWitch**](https://github.com/0Rafas/Nrjm-Witch) | `C++` `JS` | Professional Open Source Command & Control Framework |
 | [**SiraUI.WinForms**](https://github.com/0Rafas/SiraUI.WinForms) | `C#` `.NET` | Control library for WinForms with modern UI/UX focus |
-| [**0Rafas-Snip**](https://github.com/0Rafas/0Rafas-Snip) | `Python` | Professional Discord Snip and automation utility |
+| [**RvSpy**](https://github.com/0Rafas/RvSpy/) | `Rust` `C++` | RvSpy — Advanced Python Reverse Engineering Suite |
 
 
 
