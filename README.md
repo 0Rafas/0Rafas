@@ -39,7 +39,7 @@
 | 🌸 Project | Tech Stack | Description |
 | :--- | :---: | :--- |
 | [**NrjmWitch**](https://github.com/0Rafas/Nrjm-Witch) | `C++` `JS` | Professional Open Source Command & Control Framework |
-| [**SiraUI.WinForms**](https://github.com/0Rafas/SiraUI.WinForms) | `C#` `.NET` | Control library for WinForms with modern UI/UX focus |
+| [**DiscordRPC-VS2026**](https://github.com/0Rafas/DiscordRPC-VS2026) |`.NET`| The ultimate high-performance Rich Presence extension for Visual Studio 2026 |
 | [**RvSpy**](https://github.com/0Rafas/RvSpy/) | `Rust` `C++` | RvSpy — Advanced Python Reverse Engineering Suite |
 
 
