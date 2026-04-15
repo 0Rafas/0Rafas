@@ -30,6 +30,7 @@
       <img src="https://img.shields.io/badge/Go-B36A7C?style=flat-square&logo=go&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-B36A7C?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/Windows_API-gray?style=flat-square" />
+      <img src="https://img.shields.io/badge/WPF/Electron-gray?style=flat-square" />
     </td>
   </tr>
 </table>
