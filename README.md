@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/0Rafas?label=Follow&style=flat-square&color=B36A7C" />
   <img src="https://komarev.com/ghpvc/?username=0Rafas&label=Profile%20views&style=flat-square&color=B36A7C" />
-  <img src="https://img.shields.io/github/stars/0Rafas?style=flat-square&color=B36A7C" />
 </p>
 
 🌸 **Reverse Engineering • Software Architecture • Offensive Security • UI/UX Enthusiast**
