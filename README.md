@@ -48,7 +48,7 @@
 
 ### 📬 Connect with me
 
-[<img src="https://img.shields.io/badge/DISCORD-B36A7C?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/h77)
+[<img src="https://img.shields.io/badge/DISCORD-B36A7C?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/y75MyGR3jd)
 
 ---
 
