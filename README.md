@@ -3,7 +3,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=45&pause=1000&color=B36A7C&center=true&vCenter=true&width=500&lines=0Rafas" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/0Rafas?label=Follow&style=flat-square&color=B36A7C" />
   <img src="https://komarev.com/ghpvc/?username=0Rafas&label=Profile%20views&style=flat-square&color=B36A7C" />
 </p>
 
